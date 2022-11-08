@@ -1,0 +1,10 @@
+name: mlph
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pip
+  - matplotlib
+  - python=3.9
+  - numpy
+  - scikit-learn
